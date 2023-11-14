@@ -8,7 +8,7 @@
 -[Taller3](https://github.com/vNoxpe/prueba_HugoCalvo/blob/main/taller3.md)
 
 -[Taller4](https://github.com/vNoxpe/prueba_HugoCalvo/blob/main/taller4.md)
-# Unidad 2: Instalcion de gestores de contenido
+# Unidad 2: Instalación de gestores de contenido
 
 -[Parte1]()
 
